@@ -1,0 +1,22 @@
+PASAPALABRA · English C1 Work Vocabulary
+=========================================
+
+Cómo usarlo
+-----------
+1. Descomprime el ZIP.
+2. Abre "index.html" con doble clic (Chrome, Edge, Firefox o Safari).
+   No necesita instalación ni servidor. Funciona también sin internet
+   (sin conexión solo cambia la tipografía).
+
+Archivos
+--------
+index.html   La página.
+styles.css   Colores, tipografías y diseño.
+words.js     Banco de palabras (3 pistas por letra, A–Z). Puedes editarlo
+             con cualquier editor de texto para cambiar o añadir pistas.
+game.js      Reglas del juego (turnos, tiempo, aciertos, ganador).
+app.js       Pantallas y botones.
+images/      Icono de la pestaña.
+
+Para subirlo a una web (Moodle, Google Sites, tu hosting...), sube todos
+los archivos manteniendo la misma estructura de carpetas.
